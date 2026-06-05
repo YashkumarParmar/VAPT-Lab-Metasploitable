@@ -93,12 +93,6 @@
 
 ---
 
-## Full Report
-
-[📄 View Full PDF Report](report/SOC-Detection-Lab-Report.pdf)
-
----
-
 ## Connect
 
 **LinkedIn:** www.linkedin.com/in/yash-kumar-parmar  
