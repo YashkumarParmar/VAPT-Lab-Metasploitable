@@ -93,7 +93,16 @@
 
 ---
 
-## Connect
+## 📎 Resources & Full Report
+
+- 📄 **Full Report (PDF):** [View / Download](https://drive.google.com/file/d/1uC5W9rNINNeFap9-Nk1xJACGanR2YTij/view?usp=sharing)
+- 🖼️ **Screenshot Gallery:** [Google Drive Folder](https://drive.google.com/drive/folders/1fxmKPafpcvMmfDs7c7vlQAyCKj0kyUi2?usp=sharing)
+
+> The gallery includes additional screenshots and evidence not featured in the main report.
+
+---
+
+## 🤝Connect
 
 **LinkedIn:** www.linkedin.com/in/yash-kumar-parmar  
 **Email:** yashparmar.contact@gmail.com
